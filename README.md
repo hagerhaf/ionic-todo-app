@@ -1,4 +1,3 @@
-ionic-todo-app
-==============
-
-This is a basic "todo" app built with the Ionic framework.
+Ionic Todo App
+=====================
+A basic "todo" app built with the Ionic Framework.
